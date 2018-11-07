@@ -1,2 +1,7 @@
-# CSC148-Games
-Two games: Substract_square and Stonehenge
+# LV's Naive Games
+Slidingtiles
+Game 2048
+Frogsweeper
+Substract_square
+Stonehenge
+24 points counting
